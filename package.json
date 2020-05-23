@@ -1,0 +1,27 @@
+{
+  "name": "group-chat",
+  "version": "1.0.0",
+  "description": "this is the group chat..",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/github.com/Ankita1907.git"
+  },
+  "keywords": [
+    "ankita"
+  ],
+  "author": "ankita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/github.com/Ankita1907/issues"
+  },
+  "homepage": "https://github.com/github.com/Ankita1907#readme",
+  "dependencies": {
+    "ejs": "^3.1.3",
+    "express": "^4.17.1",
+    "socket.io": "^2.3.0"
+  }
+}
